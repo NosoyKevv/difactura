@@ -8,7 +8,7 @@ import org.springframework.web.context.annotation.SessionScope;
 
 @Component
 @RequestScope //<- SessionScope
-@JsonIgnoreProperties({"targetSource", "advisors"})
+//@JsonIgnoreProperties({"targetSource", "advisors"})
 public class Cliente {
 
     @Value("${client.name}")
