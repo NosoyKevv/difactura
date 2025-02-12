@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="diFactura" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="springboot-difactura" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.kevin.springboot.factura.springboot_difactura.SpringbootDifacturaApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

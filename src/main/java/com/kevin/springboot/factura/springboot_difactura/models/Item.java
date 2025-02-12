@@ -28,4 +28,8 @@ public class Item {
     public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
+
+    public int getImporte() {
+        return quantity * product.getPrice();
+    }
 }
